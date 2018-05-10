@@ -1,0 +1,34 @@
+# Mobile-Application-Development
+FBLA App Smithington Library
+SmithingtonPublicHighSchoolLibrary_CenturaFBLA_SeeversKortz_2018
+Smithington Public High School Library application 
+
+Project description-This application is a Leadership Conference project that consists of groups of two (2) or three (3) members, Grades 9 through 12, developing an app to manage the issuance of books and to provide other information at a school library. This application covers the issuance of books at Smithington Public High School Library, a made-up school district. The application is accessible for deployment on a smartphone, tablet, or both. The application runs standalone with no programming errors. It includes a map of the library, a database, and allows students and teachers to reserve and check out books.
+
+
+Instruction for Installation: Open the “App Store” application on your mobile device and search the following: “SmithingtonPublicHighSchoolLibrary”. Access the application that has a blue book on a black backdrop logo titled “SmithingtonPublicHighSchoolLibrary”. Click download and enter your Apple ID, if necessary. Once successfully downloaded, open the application on your home screen.  
+
+
+
+
+How to run the tests: In the event that the application “SmithingtonPublicHighSchoolLibrary” is not running correctly, a test would provide information on how to fix the current issue(s). At the top left hand corner of the “Xcode” application is a play button       .  Click this button and the application will run to find errors and warnings. Specific warnings and errors will be given as you will not be able to access the application if errors are present.
+
+
+Instruction for Use: Once the application “SmithingtonPublicHighSchoolLibrary” is open, *if first run on new device* go to the “Admin” page and click “Add Users to Database”. Then you can go back to the home screen to choose your User. If you click “Book Catalog” you can reserve or checkout a book. The top 3 tabs “Nonfiction”, “Fiction”, and “Historical Nonfiction” can all be accessed to find a book. If you are not satisfied with the bottom “Checkout” and “Reserve” buttons, then swipe the book of your choosing to the left. This action will give you the option to checkout and reserve also to return the book and unreserve the book (cancel the reserve of the book). The back button at the top left corner will give you access to the home page. The “Book Status” tab will currently show you which book you have selected to checkout and reserve. The back button is also available on this screen. The last tab or button is the “Map of Library”. This library comes with a key showing the user the location of where he or she might find her genre of book.  
+
+
+This application was built with: Xcode
+
+
+Versioning: Version 9.2
+Version Control: GitHub
+
+
+Authors: - Initial Work- Colten Seevers & Nicholas Kortz 
+
+
+Acknowledgments: Simplified IOS 
+
+
+ Disclaimer-App is currently not accessible through the “App Store” application.
+
