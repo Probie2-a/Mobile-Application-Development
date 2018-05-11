@@ -20,6 +20,7 @@ Instruction for Use: Once the application “SmithingtonPublicHighSchoolLibrary�
 This application was built with: Xcode
 
 
+*Mac OS 10.12+ only*
 Versioning: Version 9.2
 Version Control: GitHub
 
@@ -30,5 +31,9 @@ Authors: - Initial Work- Colten Seevers & Nicholas Kortz
 Acknowledgments: Simplified IOS 
 
 
- Disclaimer-App is currently not accessible through the “App Store” application.
+
+ -Disclaimer-
+*Mac OS 10.12+ only*
+App is currently not accessible through the “App Store” application. 
+
 
